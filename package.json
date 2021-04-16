@@ -1,0 +1,10 @@
+{
+  "name": "kcy",
+  "version": "1.0.0",
+  "description": "从零搭建脚手架开发勘察云管理后台",
+  "main": "index.js",
+  "repository": "git@github.com:520-GH-liuxiaojian/kcy.git",
+  "author": "xiaojianjian <oppor11520@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
